@@ -1,0 +1,19 @@
+.me {
+  margin-left: 0%;
+}
+.another {
+  text-align: right;
+}
+.message_container {
+  background-color: gold;
+  color: red;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.send_message_container {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20%;
+  margin-bottom: 40%;
+}
